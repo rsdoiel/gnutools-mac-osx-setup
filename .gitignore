@@ -1,0 +1,7 @@
+*~
+*.bak
+*.tar
+*.gz
+autoconf-*
+automake-*
+libtool-*
