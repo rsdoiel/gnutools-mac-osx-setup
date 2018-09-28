@@ -5,3 +5,7 @@
 autoconf-*
 automake-*
 libtool-*
+pkg-config
+libevent
+ncurses-6.1
+tmux
