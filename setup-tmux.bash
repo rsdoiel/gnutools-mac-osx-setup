@@ -18,7 +18,7 @@ cd ..
 
 # fetch source code for ncurses
 if [[ ! -d ncurses-6.1 ]]; then
-    curl -o ncurses-6.1.tar.gz L https://invisible-island.net/datafiles/release/ncurses.tar.gz
+    curl -o ncurses-6.1.tar.gz -L https://invisible-island.net/datafiles/release/ncurses.tar.gz
     tar zxvf ncurses-6.1.tar.gz
 fi
 cd ncurses-6.1
